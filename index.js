@@ -23,3 +23,5 @@ gh repo create NOMBRE-REPO --public --source=. --remote=origin --push   --------
 */
 
 console.log("This is the main index file.");
+
+console.log("Additional code in index.js");
