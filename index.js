@@ -1,6 +1,7 @@
 console.log("Hello World");
 
-/*gh auth login ----------------------------------- nos va a permitir iniciar sesión en nuestra terminal para usar git
+/*
+gh auth login ----------------------------------- nos va a permitir iniciar sesión en nuestra terminal para usar git
  
 git init       --------------------------------------- inicializar un repo en tu local(computadora)
 git status  --------------------------------------- revisar los cambios que están pendientes para commit
@@ -18,4 +19,7 @@ git pull -------------------------------------------- nos va a permitir descarga
  
 -------- comandos para inicializar repo y la rama base ---------------------------------------------
 git branch -M main  ----------------- este sólo se ocupa si el repo está inicializado desde local, nos permite crear la rama base.
-gh repo create NOMBRE-REPO --public --source=. --remote=origin --push   ------------- este comando igual se utiliza para crear el repositorio en local y poder subirlo a el portal de git*/
+gh repo create NOMBRE-REPO --public --source=. --remote=origin --push   ------------- este comando igual se utiliza para crear el repositorio en local y poder subirlo a el portal de git 
+*/
+
+console.log("This is the main index file.");
